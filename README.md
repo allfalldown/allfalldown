@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @allfalldown, sometimes I am known as Trumpiter.
-- 👀 I’m interested in sleeping.
+- 👀 I’m interested in sleeping, hacking and learn new things.
 - 🌱 I’m currently learning in Network administrator.
 - 💞️ I’m looking to collaborate on making project relative gaming, machine learning, network and so on.
 
