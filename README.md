@@ -8,4 +8,4 @@ allfalldown/allfalldown is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-*** Notice: All sample codes for class have risks if you submit without any modification, be careful. Best regard ***
+***Notice: All sample codes for class have risks if you submit without any modification, be careful. Best regard***
